@@ -1,0 +1,21 @@
+<div class="book-container">
+    <div class="book-cover">
+      <img [src]="'../../../assets/images/' + this.cover" alt="book1"/>
+    </div>
+    <div class="book-details">
+      <h1>{{ this.title }}</h1>
+      <h2>by {{ this.author }}</h2>
+      <p><strong>Category:</strong> {{ this.category }}</p>
+      <p><strong>Pages:</strong> {{ this.page_number }}</p>
+      <p><strong>Description:</strong> {{ this.description }}</p>
+      <p><strong>Availability:</strong> {{ this.availability }} copy</p>
+      <p><strong>Release Date:</strong> {{ this.release_date }}</p>
+      <div *ngIf="this.review">
+        <p><strong>Review:</strong> {{ this.review }}</p>
+      </div>
+      <div>
+        <button type="submit" value="addToCart">Add to cart</button>
+      </div>
+    </div>
+  </div>
+  

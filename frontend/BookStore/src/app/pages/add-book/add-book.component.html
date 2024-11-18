@@ -1,0 +1,47 @@
+<div class="container">
+    <h2>Add Book Form</h2>
+        <form #addForm="ngForm" (ngSubmit)="addBook(addForm)">
+            <div class="part1" style="float:left">
+            <div>
+                <label for="title">Title:</label>
+                <input type="text" id="title" ngModel name="title" required>
+            </div>
+            <div>
+                <label for="author_id">Author id:</label>
+                <input type="text" id="author_id" ngModel name="author_id" required>
+            </div>
+            <div>
+                <label for="category_id">Category id:</label>
+                <input type="text" id="category_id" ngModel name="category_id" required>
+            </div>
+            <div>
+                <label for="page_number">Page number:</label>
+                <input type="text" id="page_number" ngModel name="page_number" required>
+            </div>
+        </div>
+        <div class="part2" style="float:right">
+            <div>
+                <label for="availability">Availability:</label>
+                <input type="text" id="availability" ngModel name="availability" required>
+            </div>
+            <div>
+                <label for="release_date">Release date:</label>
+                <input type="text" id="release_date" ngModel name="release_date" required>
+            </div>
+            <div>
+                <label for="review_id">Review id:</label>
+                <input type="text" id="review_id" ngModel name="review_id">
+            </div>
+            <div>
+                <label for="cover">Cover:</label>
+                <input type="file" id="cover" (change)="onFileSelected($event)"ngModel name="cover" required>
+            </div>
+        </div>
+        <div class="part3" style="float:left">
+            <label for="description">Description:</label>
+            <textarea rows="6" cols="50" maxlength="500" id="description" ngModel name="description" required></textarea>
+        </div>
+       
+            <button type="submit" value="addAuthor">Add Book</button>
+        </form>
+    </div>

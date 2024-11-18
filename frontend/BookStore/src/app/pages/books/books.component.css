@@ -1,0 +1,40 @@
+.container {
+    width: 100%;
+  }
+  
+  .books-container {
+    display: flex;
+    flex-wrap: wrap; /* This allows the items to wrap to the next line if they don't fit in one line */
+
+    list-style-type: none; /* Remove default list styling */
+    margin-left: 4%;
+    
+  }
+  
+  .book-container {
+   
+    margin: 2%; /* Space between items */
+   
+  }
+  
+  
+  
+  .cover {
+    width: 200px; /* Set a fixed width for the book cover image */
+    height: 250px; /* Maintain the aspect ratio of the image */
+    margin: 10px; /* Space between image and text */
+  }
+  
+  p {
+    margin: 0;
+    text-align: center;
+    width:200px;
+    margin: 10px;
+  }
+  li{
+    align-items: center;
+  }
+  .book {
+    cursor: pointer;
+  }
+  

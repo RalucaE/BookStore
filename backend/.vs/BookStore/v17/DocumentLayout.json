@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\repository\\bookrepository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\bookrepository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|d:\\siemens\\echipanoua\\proiect bookstore\\backend\\bookstore\\api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|d:\\siemens\\echipanoua\\proiect bookstore\\backend\\bookstore\\repository\\categoryrepository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\categoryrepository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|d:\\siemens\\echipanoua\\proiect bookstore\\backend\\bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|d:\\siemens\\echipanoua\\proiect bookstore\\backend\\bookstore\\services\\bookservice\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\services\\bookservice\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\services\\cartservice\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\services\\cartservice\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|d:\\siemens\\echipanoua\\proiect bookstore\\backend\\bookstore\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\repository\\userrepository\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\userrepository\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|d:\\siemens\\echipanoua\\proiect bookstore\\backend\\bookstore\\repository\\cartrepository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\cartrepository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|d:\\siemens\\echipanoua\\proiect bookstore\\backend\\bookstore\\repository\\authorrepository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\authorrepository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|d:\\siemens\\echipanoua\\proiect bookstore\\backend\\bookstore\\api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\entities\\user_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\entities\\user_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\repository\\userrepository\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\repository\\userrepository\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\services\\cartservice\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\services\\cartservice\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\bookstore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47754B5F-BA0E-41EB-ABDA-36588D312E69}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Repository\\UserRepository\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\UserRepository\\UsersRepository.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Repository\\UserRepository\\UsersRepository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\UserRepository\\UsersRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:21:13.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\appsettings.json",
+              "RelativeDocumentMoniker": "BookStore\\appsettings.json",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\appsettings.json",
+              "RelativeToolTip": "BookStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T08:40:59.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Program.cs",
+              "RelativeDocumentMoniker": "BookStore\\Program.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Program.cs",
+              "RelativeToolTip": "BookStore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:29:28.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Repository\\AuthorRepository\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\AuthorRepository\\AuthorRepository.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Repository\\AuthorRepository\\AuthorRepository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\AuthorRepository\\AuthorRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:52:08.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Api\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BookStore\\Api\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Api\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BookStore\\Api\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:45:39.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Services\\CartService\\CartService.cs",
+              "RelativeDocumentMoniker": "BookStore\\Services\\CartService\\CartService.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Services\\CartService\\CartService.cs",
+              "RelativeToolTip": "BookStore\\Services\\CartService\\CartService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:39:19.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Repository\\BookRepository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\BookRepository\\BookRepository.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Repository\\BookRepository\\BookRepository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\BookRepository\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:37:15.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Repository\\CartRepository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\CartRepository\\CartRepository.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Repository\\CartRepository\\CartRepository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\CartRepository\\CartRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:52:20.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Repository\\CategoryRepository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\CategoryRepository\\CategoryRepository.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Repository\\CategoryRepository\\CategoryRepository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\CategoryRepository\\CategoryRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:52:26.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Api\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookStore\\Api\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Api\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookStore\\Api\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:45:33.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BookStore\\Services\\CategoryService\\CategoryService.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeToolTip": "BookStore\\Services\\CategoryService\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:53:43.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Services\\BookService\\BookService.cs",
+              "RelativeDocumentMoniker": "BookStore\\Services\\BookService\\BookService.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Services\\BookService\\BookService.cs",
+              "RelativeToolTip": "BookStore\\Services\\BookService\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:53:52.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Api\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "BookStore\\Api\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Api\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "BookStore\\Api\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:39:40.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Services\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "BookStore\\Services\\UserService\\UserService.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Services\\UserService\\UserService.cs",
+              "RelativeToolTip": "BookStore\\Services\\UserService\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:08:47.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Api\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BookStore\\Api\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Api\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BookStore\\Api\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:40:01.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtUtils.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Utils\\JwtUtils.cs",
+              "RelativeDocumentMoniker": "BookStore\\Utils\\JwtUtils.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Utils\\JwtUtils.cs",
+              "RelativeToolTip": "BookStore\\Utils\\JwtUtils.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAzwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:25:50.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Services\\CartService\\ICartService.cs",
+              "RelativeDocumentMoniker": "BookStore\\Services\\CartService\\ICartService.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Services\\CartService\\ICartService.cs",
+              "RelativeToolTip": "BookStore\\Services\\CartService\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:39:18.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BookStore\\Api\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BookStore\\Api\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAuwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:46:58.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User_Roles.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Entities\\User_Roles.cs",
+              "RelativeDocumentMoniker": "BookStore\\Entities\\User_Roles.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Entities\\User_Roles.cs",
+              "RelativeToolTip": "BookStore\\Entities\\User_Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:00:19.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Services\\UserService\\IUserService.cs",
+              "RelativeDocumentMoniker": "BookStore\\Services\\UserService\\IUserService.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Services\\UserService\\IUserService.cs",
+              "RelativeToolTip": "BookStore\\Services\\UserService\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:28:11.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BookStore\\Entities\\User.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Entities\\User.cs",
+              "RelativeToolTip": "BookStore\\Entities\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:51:07.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "BookStore\\Entities\\Role.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Entities\\Role.cs",
+              "RelativeToolTip": "BookStore\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:22:53.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Repository\\UserRepository\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\UserRepository\\IUsersRepository.cs",
+              "ToolTip": "D:\\SIEMENS\\EchipaNoua\\Proiect BookStore\\backend\\BookStore\\Repository\\UserRepository\\IUsersRepository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\UserRepository\\IUsersRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:37:06.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

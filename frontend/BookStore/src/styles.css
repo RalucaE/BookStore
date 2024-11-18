@@ -1,0 +1,12 @@
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+body{
+    margin: 0;
+    background-color: azure;
+}
+body::-webkit-scrollbar {
+    display: none;
+  }
+  .cdk-global-overlay-wrapper, .cdk-overlay-container {
+    z-index: 99999 !important;
+ }

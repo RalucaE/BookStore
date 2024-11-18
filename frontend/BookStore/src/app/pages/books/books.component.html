@@ -1,0 +1,15 @@
+<div class="container">
+    <h2>Books</h2>
+    <div class="books-container">
+        <ng-container *ngFor="let book of bookModel">
+           
+                <div (click)="onDivClick(book)" class="book-container">
+                    <li class="book">
+                        <img class="cover" [src]="'../../../assets/images/' + book.cover" alt="book1"/>
+                        <p>{{book.title}} - {{book.author}}</p>
+                    </li>
+                </div>
+            
+        </ng-container>
+    </div>
+</div>

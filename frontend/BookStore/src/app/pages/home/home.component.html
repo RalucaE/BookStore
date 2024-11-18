@@ -1,0 +1,16 @@
+<div class="container">
+    <h2>TOP BOOKS</h2>
+    <div class="books-container">
+        <ng-container *ngFor="let book of topBooks.slice(0, 3)">
+           
+                <div (click)="onDivClick(book)" class="book-container">
+                    <li class="book">
+                        <img class="cover" [src]="'../../../assets/images/' + book.cover" alt="book1"/>
+                        <p>{{book.title}} - {{book.author}}</p>
+                    </li>
+                </div>
+            
+        </ng-container>
+    </div>
+</div>
+

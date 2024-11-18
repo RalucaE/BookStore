@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="header.component.css">
+    <title>Your Website</title>
+</head>
+<body>
+    <header >
+        <div class="main-header">
+            <div class="left-side">
+                <a routerLink="/home" routerLinkActive="active" ariaCurrentWhenActive="page" class="home-link">BookStore</a>
+            </div>
+            <div class="middle">
+                <form #searchForm="ngForm" (ngSubmit)="searchBooks(searchForm)">
+                    <input type="text" placeholder="Search" ngModel name="keyword" class="search-bar">
+                    
+                </form>
+            </div>
+            <div class="right-side">
+                <p *ngIf="this.isAuthenticated"> Hi, {{this.username}}</p>
+                <div class="user-dropdown">
+                    <button mat-button [matMenuTriggerFor]="isAuthenticated ? menuUser : menuGuest" class="user-btn">
+                        <img alt="User" class="icon" src="https://cdn4.libris.ro/images/svg/header/user-icon.svg">
+                    </button>
+                    <mat-menu #menuGuest="matMenu">
+                        <button mat-menu-item><a routerLink="/register" routerLinkActive="active" ariaCurrentWhenActive="page">Register</a></button>
+                        <button mat-menu-item><a routerLink="/login" routerLinkActive="active" ariaCurrentWhenActive="page">Login</a></button>
+                    </mat-menu>
+                    <mat-menu #menuUser="matMenu">
+                        <button mat-menu-item><a href="#"  ariaCurrentWhenActive="page">User Details</a></button>
+                        <button mat-menu-item (click)="logout()">Logout</button>
+                    </mat-menu>
+                </div>
+                <div class="cartW" *ngIf="this.isAuthenticated">
+                    <a href="#" class="wishlist"><img alt="Wishlist" src="https://cdn4.libris.ro/images/svg/header/white-wishlist-icon.svg"> </a>
+                    <a href="#" class="cart"><img alt="Cart" src="https://cdn4.libris.ro/images/svg/header/card-icon.svg"></a>
+                </div>
+            </div> 
+        </div>
+        <div class="navbar">
+            <a routerLink="/books" routerLinkActive="active" ariaCurrentWhenActive="page" >Books</a>
+            <div class="dropdown">
+              <button class="dropbtn">Categories<i class="fa fa-caret-down"></i></button>
+              <div class="dropdown-content">
+                <ul class="list-group" *ngFor="let category of categories">
+                    <li class="menu-category"> <a href="#">{{category.category_name}}</a></li>
+                </ul>
+              </div>
+            </div> 
+            <div *ngIf="isAdmin">
+                <a routerLink="/add-book" routerLinkActive="active" ariaCurrentWhenActive="page">Add Book</a>
+                <a routerLink="/add-author" routerLinkActive="active" ariaCurrentWhenActive="page">Add Author</a>
+                <a routerLink="/add-category" routerLinkActive="active" ariaCurrentWhenActive="page">Add Category</a>
+            </div>
+            
+          </div>
+    </header>   
+</body>
+</html>
